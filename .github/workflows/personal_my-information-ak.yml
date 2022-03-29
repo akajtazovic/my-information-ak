@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'my-information-ak'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_301C470BE62A41F4B08769FE5EE25571 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B9124DDC4E54977BF957EB1A1E41EE7 }}
           package: '*.jar'
